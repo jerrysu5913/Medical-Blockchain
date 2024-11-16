@@ -3,7 +3,7 @@
     "databases-for-redis": [{
       "credentials": {
         "db_type": "redis",
-        "uri": "\nrediss://:p6aa6e5d3b9115025fb80624fcee684ede7d2c16228de4a3b5df0fd014b0d3a0c@ec2-52-54-238-35.compute-1.amazonaws.com:12940",
+        "uri": "rediss://:p6aa6e5d3b9115025fb80624fcee684ede7d2c16228de4a3b5df0fd014b0d3a0c@ec2-52-54-238-35.compute-1.amazonaws.com:12940",
         "ca_certificate_base64": "<ENTER CERT>"
       }
     }]
