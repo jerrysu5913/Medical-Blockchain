@@ -2,7 +2,7 @@ import axios from 'axios'
 
 const fetch = () => {
   return axios.create({
-    baseURL: 'http://localhost:8081',
+    baseURL: 'https://medical-blockchain.pmine.org/',
     headers: {
       'accept': 'application/json'
     }
